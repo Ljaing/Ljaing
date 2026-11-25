@@ -4,7 +4,7 @@
 
 ### Ingeniería Informática · Desarrollo de Software · Datos e IA
 
-📍 Santiago, Chile &nbsp; | &nbsp; 🎓 Duoc UC, 2026 &nbsp; | &nbsp; 💼 Open to junior opportunities
+Santiago, Chile &nbsp; | &nbsp; Duoc UC, 2026 &nbsp; | &nbsp; Open to junior opportunities
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ljaing-7556A6?style=flat-square&logo=github&logoColor=white)](https://github.com/Ljaing)
 [![Portfolio](https://img.shields.io/badge/Proyecto%20destacado-AML-C3A7ED?style=flat-square&logo=angular&logoColor=323042)](https://github.com/Ljaing/APT122-Proyecto-)
@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-Soy **Jael Inestroza**, ingeniera en Informática con mención en Desarrollo de Software. Me interesa construir soluciones que combinen **desarrollo de aplicaciones, análisis de datos y automatización de procesos**.
+Soy **Jael Inestroza**, ingeniera en Informática con mención en Gestión de Proyectos Informáticos. Me interesa construir soluciones que combinen **desarrollo de aplicaciones, análisis de datos y automatización de procesos**.
 
 Durante mi práctica profesional en **Arquitectura TI de la Dirección General de Aeronáutica Civil (DGAC)**, participé en la consolidación y análisis de un inventario de aproximadamente **705 servidores**, elaborando matrices de obsolescencia e informes técnicos.
 
@@ -38,7 +38,7 @@ Mi experiencia combina proyectos académicos de desarrollo y análisis de datos 
 <tr>
 <td width="50%" valign="top">
 
-### 🪻 [AML · Aplicación web](https://github.com/Ljaing/APT122-Proyecto-/tree/main/APT122-Proyecto/Fase%202/Evidencias%20Proyecto/Web)
+### [AML · Aplicación web](https://github.com/Ljaing/APT122-Proyecto-/tree/main/APT122-Proyecto/Fase%202/Evidencias%20Proyecto/Web)
 
 **Angular · TypeScript · Tailwind CSS**
 
@@ -49,7 +49,7 @@ Interfaz académica con rutas para actividades, acuerdos y dashboard, componente
 </td>
 <td width="50%" valign="top">
 
-### 💜 [AML · Aplicación móvil](https://github.com/Ljaing/APT122-Proyecto-/tree/main/APT122-Proyecto/Fase%202/Evidencias%20Proyecto/Movil)
+### [AML · Aplicación móvil](https://github.com/Ljaing/APT122-Proyecto-/tree/main/APT122-Proyecto/Fase%202/Evidencias%20Proyecto/Movil)
 
 **Ionic · Angular · TypeScript · Capacitor**
 
@@ -61,7 +61,7 @@ Prototipo móvil académico con navegación y pantallas de ingreso, inicio y ben
 </tr>
 </table>
 
-### 📌 En desarrollo
+### En desarrollo
 
 Estoy organizando y documentando más trabajos académicos de **Python, datos y machine learning**. Solo destacaré repositorios cuando su código, ejecución y alcance estén verificados.
 
