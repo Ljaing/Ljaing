@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Jael Inestroza — Ingeniería Informática</title>
+<desc id="desc">Banner lila suave con presentación de Jael Inestroza y sus áreas de interés en software, datos e inteligencia artificial.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F9F6FF"/><stop offset=".5" stop-color="#EFE6FC"/><stop offset="1" stop-color="#E3D4F8"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#9C80C8"/><stop offset="1" stop-color="#C4A8EA"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<circle cx="1120" cy="70" r="145" fill="#D9C7F2" opacity=".55"/><circle cx="1050" cy="255" r="100" fill="#C3AFE7" opacity=".24"/><circle cx="95" cy="45" r="115" fill="#FFFFFF" opacity=".42"/>
+<path d="M70 240 H310" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<rect x="70" y="45" width="198" height="28" rx="14" fill="#E3D4F8"/><text x="90" y="64" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#674A8E" letter-spacing="1">HELLO, I'M JAEL</text>
+<text x="70" y="142" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" fill="#49345F">Jael Inestroza</text>
+<text x="72" y="185" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#66517D">Ingeniera en Informática</text>
+<text x="72" y="217" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#78648D">Software Development  ·  Data Analytics  ·  AI</text>
+<g fill="none" stroke="#9F83C7" stroke-width="2" opacity=".7"><rect x="915" y="110" width="158" height="100" rx="18"/><path d="M936 144 l-13 16 13 16 M1052 144 l13 16 -13 16 M996 135 l-16 50"/></g>
+</svg>
