@@ -4,7 +4,7 @@
 
 ### Ingeniería Informática · Desarrollo de Software · Datos e IA
 
-📍 Santiago, Chile &nbsp; | &nbsp; 🎓 Duoc UC, 2025 &nbsp; | &nbsp; 💼 Open to junior opportunities
+📍 Santiago, Chile &nbsp; | &nbsp; 🎓 Duoc UC, 2026 &nbsp; | &nbsp; 💼 Open to junior opportunities
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ljaing-7556A6?style=flat-square&logo=github&logoColor=white)](https://github.com/Ljaing)
 [![Portfolio](https://img.shields.io/badge/Proyecto%20destacado-AML-C3A7ED?style=flat-square&logo=angular&logoColor=323042)](https://github.com/Ljaing/APT122-Proyecto-)
